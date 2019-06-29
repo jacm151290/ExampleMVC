@@ -1,0 +1,33 @@
+#divLogin{
+  background: #ccc;
+  border-radius: 50px;
+  box-shadow: 10px 10px 20px #000;
+  height: 400px;
+  width: 500px;
+}
+#frmLogin{
+  height: 100%;
+  width: 100%;
+}
+input{
+  width: 90%;
+  height: 10%;
+  font-size: 25px;
+  text-align: center;
+  border-radius: 50px;;
+}
+span>h1{
+  font-size: 36px;
+  text-transform: uppercase;
+}
+#btnIngresar{
+  cursor: pointer;
+  font-weight: bold;
+}
+#btnIngresar:hover{
+  background: #ccc;
+}
+#btnIngresar:active{
+  background: #000;
+  color: white;
+}
