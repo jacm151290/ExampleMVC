@@ -21,7 +21,7 @@
         <table id="tblConsolaInformacion" border="1">
           <thead>
             <tr>
-              <th> <span>Bienvenid@ <?php $_POST["txtNombre"]="JACM"; echo $_POST["txtNombre"]; ?> </span> </th>
+              <th> <span>Bienvenid@ <?php echo $_POST["txtNombre"]; ?> </span> </th>
             </tr>
           </thead>
           <tbody>
